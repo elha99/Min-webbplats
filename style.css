@@ -1,0 +1,42 @@
+/*CCS*/
+
+form {
+    max-width: 400px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 2px solid #b6b5b5;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input:focus, textarea:focus {
+    outline: none;
+    border-color: #3bad3f;
+    box-shadow: 0 0 5px rgba(58, 186, 58, 0.5);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+    font-size: 0.9rem;
+}
+button {
+    background-color: #3bad3f;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+}       
+
