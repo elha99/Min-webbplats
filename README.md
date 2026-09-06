@@ -2,8 +2,8 @@
 Webbplatsen innehåller en kort beskrivning om mig själv och varför jag vill bli en webbutvecklare, mina intressen samt en kontaktsida med ett kontaktformulär för att nå mig. 
 
 ## Tekniker
-Projektet är byggt med:
--HTML 
+Projektet är byggt med:  
+-HTML  
 -CSS
 
 ## Kontakt 
@@ -11,7 +11,7 @@ Ni kan nå mig på mail:
 elha2612@student.miun.se
 
 ## Länkar till publicerade versionerna:
-[Kolla in min webbplats på Github!](https://github.com/elha99/Min-webbplats.git),  
+[Kolla in min webbplats på Github!](https://github.com/elha99/Min-webbplats.git)  
 [Webbplatsen finns även på Netlify](https://elha99-webbplats.netlify.app/)
 
 ## Frågor om git
