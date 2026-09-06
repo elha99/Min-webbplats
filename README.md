@@ -11,7 +11,7 @@ Ni kan nå mig på mail:
 elha2612@student.miun.se
 
 ## Länkar till publicerade versionerna:
-[Kolla in min webbplats på Github!](https://github.com/elha99/Min-webbplats.git)
+[Kolla in min webbplats på Github!](https://github.com/elha99/Min-webbplats.git),  
 [Webbplatsen finns även på Netlify](https://elha99-webbplats.netlify.app/)
 
 ## Frågor om git
